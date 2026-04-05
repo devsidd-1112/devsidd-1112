@@ -9,6 +9,5 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Fid3hvNjQyanU4eHJzbXh1dWtwa25lcDVmem5keDdiYmZ5YTJ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="320"/>
-  <img src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" width="320"/>
 </p>
 
